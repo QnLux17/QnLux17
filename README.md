@@ -22,22 +22,18 @@
 
 ###
 
-<div align="center">
-  <a href="qn.lux17" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
-  </a>
+<div align="left">
   <a href="https://www.youtube.com/channel/UCR7pmsIDHul_hucCy6KY-IQ" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
   </a>
   <a href="https://www.facebook.com/whtuze" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
   </a>
-  <a href="takagraz3107@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   <a href="https://www.instagram.com/directx.317" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
 </div>
 
 ###
@@ -56,7 +52,7 @@
 
 ###
 
-<p align="left">🌱 About Me<br><br>─── ✦ ───<br><br>👋 Introduction<br><br>Hello! My name is Tien Dat.<br>I’m a student who is passionate about both Biology 🧬 and Technology 💻.<br>I believe that curiosity leads to knowledge, and knowledge leads to change.<br><br>─── ✦ ───<br><br>🎯 My Dream<br><br>🌍 To become a Biologist in the future<br><br>🧪 To do meaningful research in genetics, ecosystems, and environmental science<br><br>⚡ To combine Biology + Coding for data analysis and scientific discovery<br><br>📚 To inspire others with science and technology<br><br>─── ✦ ───<br><br>💡 My Values<br><br>🌟 Curiosity – Always exploring and asking questions<br><br>💪 Persistence – Never giving up on challenges<br><br>🤝 Collaboration – Working with people and sharing knowledge<br><br>🌱 Responsibility – Protecting nature and living things<br><br>─── ✦ ───<br><br>📖 Hobbies & Interests<br><br>🐾 Observing nature: animals, plants, and microorganisms<br><br>🌿 Gardening & studying ecosystems<br><br>📖 Reading about biology, genetics, and environment<br><br>💻 Coding with curiosity:<br><br></> Python for data science<br><br></> Markdown & GitHub for sharing projects<br><br></> Exploring bioinformatics tools<br><br>⚡ Mixing science with technology to solve real-world problems<br><br>─── ✦ ───<br><br>🛠️ Tech Stack<br><br>🐍 Python – Data analysis & scientific computing<br><br>📊 R – Statistics & biological data visualization<br><br>⚙️ Git & GitHub – Version control & collaboration<br><br>📝 Markdown – Writing and sharing research notes<br><br>🔬 Bioinformatics Tools – Connecting coding with biology<br><br>🌐 Basic Web Dev – HTML, CSS for presenting ideas<br><br>─── ✦ ───<br><br>🚀 Vision for the Future<br><br>“Science + Technology = The key to a sustainable future 🌏.”<br><br>In the future, I want to:<br><br>🧬 Contribute to biological research<br><br>💻 Use coding & data analysis to support discoveries<br><br>🌍 Work on environmental protection projects<br><br>🧑‍🔬 Collaborate with scientists & developers worldwide<br><br>─── ✦ ───<br><br>🌟 Motto<br><br>✨ "Stay curious, keep coding, and use science to make the world better." ✨<br><br>─── ✦ ───</p>
+<p align="left">🌱 About Me<br>─── ✦ ───<br>👋 Introduction<br>Hello! My name is Tien Dat.<br>I’m a student who is passionate about both Biology 🧬 and Technology 💻.<br>I believe that curiosity leads to knowledge, and knowledge leads to change.<br><br>─── ✦ ───<br>🎯 My Dream<br>🌍 To become a Biologist in the future<br>🧪 To do meaningful research in genetics, ecosystems, and environmental science<br>⚡ To combine Biology + Coding for data analysis and scientific discovery<br>📚 To inspire others with science and technology<br>─── ✦ ───<br><br>💡 My Values<br>🌟 Curiosity – Always exploring and asking questions<br>💪 Persistence – Never giving up on challenges<br>🤝 Collaboration – Working with people and sharing knowledge<br>🌱 Responsibility – Protecting nature and living things<br>─── ✦ ───<br><br>📖 Hobbies & Interests<br>🐾 Observing nature: animals, plants, and microorganisms<br>🌿 Gardening & studying ecosystems<br>📖 Reading about biology, genetics, and environment<br>💻 Coding with curiosity:<br><br></> Python for data science<br><br></> Markdown & GitHub for sharing projects<br><br></> Exploring bioinformatics tools<br><br>⚡ Mixing science with technology to solve real-world problems<br>─── ✦ ───<br><br>🛠️ Tech Stack<br>🐍 Python – Data analysis & scientific computing<br>📊 R – Statistics & biological data visualization<br>⚙️ Git & GitHub – Version control & collaboration<br>📝 Markdown – Writing and sharing research notes<br>🔬 Bioinformatics Tools – Connecting coding with biology<br>🌐 Basic Web Dev – HTML, CSS for presenting ideas<br>─── ✦ ───<br><br>🚀 Vision for the Future<br>“Science + Technology = The key to a sustainable future 🌏.”<br><br>In the future, I want to:<br>🧬 Contribute to biological research<br>💻 Use coding & data analysis to support discoveries<br><br>🌍 Work on environmental protection projects<br>🧑‍🔬 Collaborate with scientists & developers worldwide<br>─── ✦ ───<br><br>🌟 Motto<br><br>✨ "Stay curious, keep coding, and use science to make the world better." ✨</p>
 
 ###
 
