@@ -36,20 +36,10 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
 </div>
 
-###
-
-
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31gerycm7mwmrln6fth2surwnd2q">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31gerycm7mwmrln6fth2surwnd2q&count=3" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
 
-<p align="left">👋 Hi, I’m Tien Dat<br><br>🌱 Passionate about Biology 🧬 & Technology 💻<br>🎯 Aspiring Biologist with love for nature & research 🌍<br>🛠️ Skills: Python 🐍 | R 📊 | GitHub ⚙️ | Bioinformatics 🔬<br>💡 Interested in exploring science + coding to protect the planet<br>✨ Motto: "Stay curious, keep coding, and make the world better."</p>
-
+<h4 align="left">👋 Hi, I’m Tien Dat<br><br>🌱 Passionate about Biology 🧬 & Technology 💻<br>🎯 Aspiring Biologist with love for nature & research 🌍<br>🛠️ Skills: Python 🐍 | R 📊 | GitHub ⚙️ | Bioinformatics 🔬<br>💡 Interested in exploring science + coding to protect the planet<br>✨ Motto: "Stay curious, keep coding, and make the world better."</h4>
 
 ###
 
@@ -66,3 +56,19 @@
 
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=QnLux17.QnLux17&"  />
+
+
+###
+
+
+
+
+
+
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31gerycm7mwmrln6fth2surwnd2q">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31gerycm7mwmrln6fth2surwnd2q&count=3" alt="Spotify recently played"  />
+  </a>
+</div>
+
