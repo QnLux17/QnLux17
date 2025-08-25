@@ -51,22 +51,11 @@
 ![snake gif](https://github.com/QnLux17/QnLux17/blob/output/pacman-contribution-graph-dark.svg)
 
 
-###
-
-
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=QnLux17.QnLux17&"  />
-
-
-
 
 
 
 
 ###
-
-
-
 
 
 
@@ -76,4 +65,12 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31gerycm7mwmrln6fth2surwnd2q&count=3" alt="Spotify recently played"  />
   </a>
 </div>
+
+
+
+###
+
+
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=QnLux17.QnLux17&"  />
 
