@@ -60,6 +60,12 @@
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=QnLux17.QnLux17&"  />
+
+![snake gif](https://github.com/QnLux17/QnLux17/blob/output/pacman-contribution-graph-dark.svg)
+
 
 ###
+
+
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=QnLux17.QnLux17&"  />
