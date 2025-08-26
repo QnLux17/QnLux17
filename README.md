@@ -1,3 +1,16 @@
+![](https://raw.githubusercontent.com/JSH32/JSH32/master/assets/main.gif)
+
+
+
+
+
+
+
+###
+
+
+
+
 <h2 align="center">🤘 Hi, I'm TienDat. Call me Lux.</h2>
 
 ###
