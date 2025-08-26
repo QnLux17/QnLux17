@@ -49,14 +49,17 @@
 ###
 
 
+
+
 ![snake gif](https://github.com/QnLux17/QnLux17/blob/output/pacman-contribution-graph-dark.svg)
 
 
 
 
 
-
 ###
+
+
 
 
 
@@ -69,7 +72,12 @@
 
 
 
+
+
+
+
 ###
+
 
 
 
