@@ -1,15 +1,3 @@
-![](https://raw.githubusercontent.com/JSH32/JSH32/master/assets/main.gif)
-
-
-
-
-
-
-
-###
-
-
-
 
 <h2 align="center">🤘 Hi, I'm TienDat. Call me Lux.</h2>
 
@@ -56,7 +44,7 @@
 
 ###
 
-<img align="right" height="335" src="https://i.pinimg.com/originals/da/80/73/da80737cd181cd3731689141296de3e1.gif"  />
+![](https://raw.githubusercontent.com/JSH32/JSH32/master/assets/main.gif)
 
 ###
 
